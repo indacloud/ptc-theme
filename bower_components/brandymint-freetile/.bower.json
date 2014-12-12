@@ -1,0 +1,14 @@
+{
+  "name": "brandymint-freetile",
+  "homepage": "https://github.com/BrandyMint/Freetile",
+  "_release": "a024f21c6b",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "a024f21c6bfcdb9123e1150876e360e47a3aa301"
+  },
+  "_source": "git://github.com/BrandyMint/Freetile.git",
+  "_target": "*",
+  "_originalSource": "brandymint-freetile",
+  "_direct": true
+}

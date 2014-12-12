@@ -1,0 +1,138 @@
+$sm-break: 'min-width: 768px'
+$md-break: 'min-width: 1024px'
+
+$sans-serif: Helvetica, Arial, sans-serif
+
+$background-color: #f6f6f6
+$text-color: #888888
+$line-color: #e6e6e6
+
+$orange: #b13706
+
+
+$menu-background-color: #b13706
+$menu-link-color: #79706d
+$menu-link-color-hover: darken($menu-link-color, 20)
+
+$link-color: #481400
+$link-color-hover: darken($link-color, 20)
+
+$footer-color: #b13706
+$footer-font-color: #481400
+
+body
+  font-family: Georgia, serif
+  background: $background-color
+  color: $text-color
+
+img
+  max-width: 100%
+
+ul
+  margin: 0
+  -webkit-margin-before: 0
+  -webkit-margin-after: 0
+  -webkit-padding-start: 0
+  list-style: none
+
+a
+  transition: color 0.3s ease-in-out
+a:link, a:visited
+  color: $link-color
+a:hover, a:active
+  color: $link-color-hover
+
+h1, h2, h3, h4, h5
+  font-family: $sans-serif
+  font-weight: bold
+
+blockquote
+  font-size: 1em
+  padding: 20px 0
+  border: 0
+  font-style: italic
+
+@import 'header'
+
+@import 'footer'
+
+@import 'staff'
+@import 'testimonial'
+@import 'history'
+@import 'formulas'
+
+@import 'widgets'
+
+@import 'form'
+
+#main
+  padding-bottom: 60px
+  padding-top: 30px
+
+.inner-col
+  background: white
+  border: 1px solid $line-color
+  border-radius: 0px 0px 4px 4px
+  box-shadow: 0px 1px 2px rgba(0,0,0,0.2)
+  overflow: hidden
+  margin-bottom: 20px
+  .text
+    padding: 15px
+  h1
+    padding: 0 15px
+    margin: 20px 0
+
+
+.paging-navigation
+  .nav-links
+    text-align: center
+    &>div
+      display: inline-block
+      a
+        border: 0
+        background: $orange
+        color: $background-color
+        transition: background 0.3s ease-in-out
+        padding: 8px 15px
+        font-family: $sans-serif
+        border-radius: 4px
+        display: inline-block
+        margin: 5px 10px
+        &:hover
+          background: darken($orange, 10)
+          text-decoration: none
+      &.nav-previous
+        i
+          margin-right: 5px
+      &.nav-next
+        i
+          margin-left: 5px
+
+.freetile
+  clear: both
+  margin: 0 auto
+  max-width: 950px
+.image.freetile-image,
+[class*='wp-image-']
+  margin: 10px
+  padding: 4px
+  background: white
+  border: 1px solid $line-color
+  border-radius: 3px
+  transition: all 0.3s ease-in-out
+  box-shadow: 0px 1px 2px rgba(0,0,0,0.2)
+  height: auto
+  width: auto
+  img
+    height: auto
+    width: auto
+
+[class*='wp-image-']
+  &.aligncenter
+    margin: 10px auto
+    display: block
+  &.alignleft
+    float: left
+  &.alignright
+    float: right
+

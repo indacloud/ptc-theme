@@ -1,0 +1,40 @@
+form
+  label
+    font-family: $sans-serif
+    font-size: 11px
+    &.focus
+      color: $orange
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"]
+    border: none
+    background: transparent
+    border-color: lightgray
+    border-style: solid
+    border-width: 0px 0px 1px 0px
+    padding: 2px 5px
+    &:focus
+      background: white
+      border-color: $orange
+      outline: 0
+  textarea
+    background: transparent
+    border-color: lightgray
+    border-width: 1px
+    border-style: solid
+    padding: 3px 5px
+    &:focus
+      background: white
+      border-color: $orange
+      outline: 0
+
+  input[type="submit"]
+    border: 0
+    background: $orange
+    color: $background-color
+    transition: background 0.3s ease-in-out
+    padding: 8px 15px
+    font-family: $sans-serif
+    border-radius: 4px
+    &:hover
+      background: darken($orange, 10)

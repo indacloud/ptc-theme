@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ptc\n"
+"POT-Creation-Date: 2014-12-05 11:09+0100\n"
+"PO-Revision-Date: 2014-12-05 11:11+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7\n"
+"X-Poedit-Basepath: T:\\ptc\\wp-content\\themes\\ptc-theme\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: T:\\ptc\\wp-content\\themes\\ptc-theme\n"
+
+#: T:\ptc\wp-content\themes\ptc-theme/functions.php:32
+msgid "Like us on Facebook"
+msgstr "Rejoignez-nous sur Facebook"
+
+#: T:\ptc\wp-content\themes\ptc-theme/functions.php:38
+msgid "Follow us on Twitter"
+msgstr "Suivez-nous sur Twitter"
+
+#: T:\ptc\wp-content\themes\ptc-theme/functions.php:44
+msgid "Our Instagram page"
+msgstr "Notre compte Instagram"
+
+#: T:\ptc\wp-content\themes\ptc-theme/functions.php:50
+msgid "We are on pinterest"
+msgstr "Profile Pinterest"
+
+#: T:\ptc\wp-content\themes\ptc-theme/functions.php:56
+msgid "On LinkedIn"
+msgstr "Profile LinkedIn"
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:11
+msgid "Staff members"
+msgstr "Staff membres"
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:12
+msgid "Staff member"
+msgstr "Staff membre"
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:13
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:14
+msgid "Staff"
+msgstr "Staff"
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:15
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:52
+msgid "Add New"
+msgstr "Ajouter"
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:16
+msgid "Add New Staff member"
+msgstr "Ajouter un membre du Staff"
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:17
+msgid "New Staff member"
+msgstr "Nouveau membre Staff"
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:18
+msgid "Edit Staff member"
+msgstr "Editer membre du Staff"
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:19
+msgid "View Staff member"
+msgstr "Voir membre du Staff"
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:20
+msgid "All Staff members"
+msgstr ""
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:21
+msgid "Search Staff members"
+msgstr ""
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:22
+msgid "Parent Staff members:"
+msgstr ""
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:23
+msgid "No staff members found."
+msgstr ""
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:24
+msgid "No staff members found in Trash."
+msgstr ""
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:45
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:47
+msgid "Testimonials"
+msgstr ""
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:46
+msgid "Testimonial"
+msgstr ""
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:48
+msgid "Parent Item:"
+msgstr ""
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:49
+msgid "All Testimonials"
+msgstr ""
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:50
+msgid "View Testimonial"
+msgstr ""
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:51
+msgid "Add New Testimonial"
+msgstr ""
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:53
+msgid "Edit Testimonial"
+msgstr ""
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:54
+msgid "Update Testimonial"
+msgstr ""
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:55
+msgid "Search Testimonial"
+msgstr ""
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:56
+msgid "Not found"
+msgstr ""
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:57
+msgid "Not found in Trash"
+msgstr ""
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:60
+msgid "testimonial"
+msgstr ""
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/custom_types.php:61
+msgid "Quotes about PTC"
+msgstr ""
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/theme_options.php:50
+msgid "Pictures"
+msgstr ""
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/theme_options.php:55
+msgid "Social"
+msgstr ""
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/theme_options.php:62
+msgid "Menu Logo"
+msgstr ""
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/theme_options.php:69
+msgid "Menu Logo for mobile"
+msgstr ""
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/theme_options.php:76
+msgid "Footer Logo"
+msgstr ""
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/theme_options.php:84
+msgid "Facebook page link"
+msgstr ""
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/theme_options.php:92
+msgid "Twitter account link"
+msgstr ""
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/theme_options.php:100
+msgid "Instagram link"
+msgstr ""
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/theme_options.php:108
+msgid "Pinterest board link"
+msgstr ""
+
+#: T:\ptc\wp-content\themes\ptc-theme/includes/theme_options.php:116
+msgid "LinkedIn profile link"
+msgstr ""

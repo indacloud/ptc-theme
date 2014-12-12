@@ -1,0 +1,27 @@
+#main-foot
+  background: $footer-color
+  color: $footer-font-color
+
+#footer-social
+  .social-item
+    font-size: 30px
+    display: inline-block
+    margin: 14px 5px
+    width: 40px
+    a
+      color: $background-color
+      &:hover
+        color: $footer-font-color
+
+#menu-footer
+  text-align: center
+  .menu-item
+    display: inline-block
+    margin: 13px 10px
+    a
+      color: $footer-font-color
+      &:hover
+        color: darken($footer-font-color, 10)
+  .menu-item.current-menu-item
+    a
+      color: darken($footer-font-color, 10)
