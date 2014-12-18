@@ -25,7 +25,7 @@
             <?php wp_nav_menu( array( 'theme_location' => 'footer', 'menu_class' => 'footer-nav' ) ); ?>
           </div>
           <div class="copyright text-center">
-            <span>&copy; <?php echo date('Y'); ?> Lorem Ipsum </span>
+            <span>&copy; <?php echo date('Y'); ?> Provence Tennis Camp </span>
           </div>
         </div>
       </div>
